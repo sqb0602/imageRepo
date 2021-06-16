@@ -1,7 +1,8 @@
 [
 	{
-		"name": "白色橱柜",
-		"url": "https://sqb0602.github.io/imageRepo/images/cg1.jpg",
-		"title": "橱柜"
-	}
+		"id": "1",
+		"name": "图片1",
+		"imgs": ["https://sqb0602.github.io/imageRepo/images/cg1.jpg","https://sqb0602.github.io/imageRepo/images/cg2.jpg"],
+		"type": "衣柜"
+	  }
 ]
