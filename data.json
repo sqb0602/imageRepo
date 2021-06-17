@@ -2,7 +2,7 @@
 	{
 		"id": "1",
 		"name": "图片1",
-		"imgs": ["https://sqb0602.github.io/imageRepo/images/cg1.jpg","https://sqb0602.github.io/imageRepo/images/cg2.jpg"],
+		"imgs": ["https://cdn.jsdelivr.net/gh/sqb0602/imageRepo@main/images/cg1.jpg","https://cdn.jsdelivr.net/gh/sqb0602/imageRepo@main/images/cg2.jpg"],
 		"type": "衣柜"
 	  }
 ]
