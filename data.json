@@ -1,8 +1,12 @@
-[
-	{
-		"id": "1",
-		"name": "图片1",
-		"imgs": ["https://cdn.jsdelivr.net/gh/sqb0602/imageRepo@main/images/cg1.jpg","https://cdn.jsdelivr.net/gh/sqb0602/imageRepo@main/images/cg2.jpg"],
-		"type": "衣柜"
-	  }
-]
+{
+	"list": [
+		{
+			"id": "1",
+			"name": "图片1",
+			"imgs": ["https://cdn.jsdelivr.net/gh/sqb0602/imageRepo@main/images/cg1.jpg","https://cdn.jsdelivr.net/gh/sqb0602/imageRepo@main/images/cg2.jpg"],
+			"type": "衣柜"
+		  }
+	],
+	"type":["热门", "衣柜", "橱柜", "套装门", "整体厨卫"]
+
+}
